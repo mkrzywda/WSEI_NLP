@@ -187,7 +187,7 @@ W rozwiązaniu docelowym dane do uczenia powinny zostać wczytane z pliku `sente
 
 Opcjonalnie można przetestować /classifier with_preprocesing/without_preprocessing - czyli tekst powinien zostać wcześnie przeprocesowany wybranymi narzędziami.
 
-### 4. Tryb `/classifier`
+### 4. Tryb `/sts`
 
 Tryb `/stats` służy do wyswietlenie unikalnych tokenów, unikalnych n-gramów (2-gram, 3-gram) na podstawie danych zapisanych wcześniej w pliku `sentences.json` i przedstawienie wizualizaji:
   - wykres słupkowy najczęstszych słów (w całym zbiorze),
