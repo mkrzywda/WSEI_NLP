@@ -63,7 +63,7 @@ Możliwe wartości (20news_group):
 ```
 - 20news_group
 - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-- https://www.kaggle.com/datasets/kritanjalijain/amazon-reviewstwitter_sentiment
+- https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 - ag_news
 ```
 
