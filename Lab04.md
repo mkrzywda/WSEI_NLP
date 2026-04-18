@@ -6,8 +6,8 @@ Ekstrakcja informacji: Named Entity Recognition (NER), Named Entity Linking (NEL
 
 Laboratorium rozszerza funkcjonalność bota z **Laboratorium 1**, **Laboratorium 2** i **Laboratorium 3** o:
 
-- rozpoznawanie nazwanych entitetów za pomocą `Spacy` i `Stanza`,
-- linkowanie i disambiguacja entitetów z bazą wiedzy,
+- rozpoznawanie nazwanych encji za pomocą `Spacy` i `Stanza`,
+- linkowanie i disambiguacja encji z bazą wiedzy,
 - tłumaczenie maszynowe bez konieczności posiadania klucza API,
 - generowanie podsumowań tekstu przy użyciu małych modeli LLM na Ollama,
 - integracja wielu zaawansowanych narzędzi NLP w jednym bocie,
